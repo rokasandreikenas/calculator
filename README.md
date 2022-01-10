@@ -1,2 +1,2 @@
 # calculator
-Vanilla Javascrip project - calculator
+Vanilla Javascript project - calculator
