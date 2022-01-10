@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid grey;
+}
+
+.result {
+  padding: 16px 6px;
+  border: 1px solid grey;
+  width: 318px;
+  margin-bottom: 8px;
+  text-align: right;
+}
+
+.secondary-container {
+  display: flex;
+}
+
+.buttons {
+  margin-bottom: 8px;
+}
+
+button {
+  width: 80px;
+}
+
+.right-side {
+  margin-bottom: 4px;
+}
+
+.right-side button {
+  height: 100%;
+  margin-left: 4px;
+  background-color: #add8e6;
+}
+
+.row {
+  margin-bottom: 4px;
+}
